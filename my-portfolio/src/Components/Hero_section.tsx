@@ -4,13 +4,13 @@ function Hero_section() {
       <div className="flex w-full justify-center">
         <div className="w-full max-w-[1700px] items-center grid grid-cols-2 gap-20">
           <div className=" px-15">
-            <div className="text-5xl mb-5 font-mono">
+            <div className="text-5xl mb-0 font-mono">
               Hi, I'm Edwin Nkonzong
             </div>
             <div className="text-6xl font-extrabold mb-7  bg-gradient-to-r bg-clip-text text-transparent from-[#0521be] to-[#56fde4]">
               Front-End Developer
             </div>
-            <div className="text-2xl mb-10 font-light font-serif">
+            <div className="text-2xl mb-10 font-extralight ">
               I build responsive and scalable web applications using React and
               TypeScript. I specialize in writing clean, maintainable and
               efficient code optimizing performance, and delivering seamless
@@ -19,9 +19,9 @@ function Hero_section() {
             <div className="flex items-center">
               <a
                 href=""
-                className="p-2 mr-5 text-white font-bold text-lg bg-gradient-to-b from-[#97e1f7] to-[#3ccdf9] rounded-2xl"
+                className="p-2 mr-5 text-white font-normal text-lg bg-gradient-to-b from-[#97e1f7] to-[#3ccdf9] rounded-2xl"
               >
-                See Projects
+                See my projects →
               </a>
               <img
                 className="w-10 mr-5 h-10"
